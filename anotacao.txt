@@ -1,0 +1,36 @@
+NextJS {[
+framework web = sistema com estrutura e ferramenta já definidas
+
+já deixa tudo definido como rotas , gerador de estaticos e subida para produçao
+ele tem Server side Rendering - SSR (renderizaçao do servidor)
+gerador de estaticos(static site generation -SSG)
+css-in-js(styled-jsx, styled components, emotion, etc)
+zero configuraçao(rota, hot reloading, code splitting)
+completamente extensivel (controle completo do babel/webpack, plugins)
+perfeito para produçao
+
+tipos de uma aplicaçao =
+static site (html,css,js)
+client side rendering (single page aplication -SPA) create react app
+server side rendering (SSR) - NextJS
+todos tem vantagens e desvantagens
+
+]}
+
+GraphQL {[
+  linguagem de consulta de dados
+  prepara um schema , busca os dados e depois recebe os dados
+  uma unica rota, dados desacoplados
+  permite evolucçao constante
+  muito mais rapido 
+  url unica (os dados extras sao mandados atraves do payload)
+]}
+
+Styled Components {[
+  critical css automatico (carrega as coisas de acordo com o nessecitado)
+  escopo definido (sem colisao de classes)
+  remoçao de css nao utilizado
+  estilos dinamicos(props, themes)
+  manutençao simplificada
+  vendor prefixing automatico (coloca prefixos necessarios como webkit por exemplo )
+]}

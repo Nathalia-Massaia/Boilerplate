@@ -1,0 +1,6 @@
+{
+  "editor.formatOnSave": false,//ignora a forma de save do vscode
+  "editor.codeActionsOnSave": { //o responsavel por formatar o codigo sera o eslint
+    "source.fixAll.eslint": true // o eslint esta ligado ao prettier
+  }
+}

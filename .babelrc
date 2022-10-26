@@ -1,0 +1,15 @@
+{
+  "plugins": [
+    [
+      "babel-plugin-styled-components",
+      {
+        "ssr": false
+      }
+    ]
+  ],
+  "presets": ["next/babel", "@babel/preset-typescript"]
+
+}
+ //next babel serve par que consigamos escrever o codigo dentro do jest e que o ambiente consiga entender a compilaçao
+
+ //e como estamos utilizando o typescrip entao precismos do preset dele para ele conseguir entender o codigo
