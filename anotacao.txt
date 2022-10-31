@@ -22,7 +22,7 @@ GraphQL {[
   prepara um schema , busca os dados e depois recebe os dados
   uma unica rota, dados desacoplados
   permite evolucçao constante
-  muito mais rapido 
+  muito mais rapido
   url unica (os dados extras sao mandados atraves do payload)
 ]}
 
@@ -34,3 +34,10 @@ Styled Components {[
   manutençao simplificada
   vendor prefixing automatico (coloca prefixos necessarios como webkit por exemplo )
 ]}
+
+
+PARA CRIAR UM PROJETO UTILIZANDO O BOILERPLATE
+yarn create next-app -e eohttpsdogit
+
+PLOP
+yarn generate 'e o nome do componente a ser criado'
