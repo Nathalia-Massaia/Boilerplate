@@ -37,7 +37,7 @@ Styled Components {[
 
 
 PARA CRIAR UM PROJETO UTILIZANDO O BOILERPLATE
-yarn create next-app -e eohttpsdogit
+yarn create next-app -e https://github.com/Nathalia-Massaia/Boilerplate
 
 PLOP
 yarn generate 'e o nome do componente a ser criado'
